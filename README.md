@@ -42,6 +42,7 @@ This dashboard helps in understanding:
 🎯 Learning Experience
 
 Through this project, I improved my skills in:
+
 ✔ Data Analytics
 
 ✔ Dashboard Development
@@ -49,7 +50,3 @@ Through this project, I improved my skills in:
 ✔ Business Intelligence
 
 ✔ Visualization Techniques
-
-📷 Dashboard Preview
-
-(Add your dashboard screenshots here)
