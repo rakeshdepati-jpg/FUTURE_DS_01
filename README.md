@@ -20,10 +20,14 @@ This project focuses on analyzing business sales data and creating an interactiv
 
 🛠️ Tools & Technologies Used
 
-🔹 Microsoft Excel / Power BI
+🔹 Microsoft Excel 
+
 🔹 Pivot Tables
+
 🔹 Data Cleaning
+
 🔹 Data Visualization
+
 🔹 Dashboard Design
 
 📈 Project Outcome
@@ -31,16 +35,22 @@ This project focuses on analyzing business sales data and creating an interactiv
 This dashboard helps in understanding:
 
 - Sales performance trends
+- 
 - Best-selling products
+- 
 - Country-wise sales analysis
+- 
 - Business growth insights
 
 🎯 Learning Experience
 
 Through this project, I improved my skills in:
 ✔ Data Analytics
+
 ✔ Dashboard Development
+
 ✔ Business Intelligence
+
 ✔ Visualization Techniques
 
 📷 Dashboard Preview
