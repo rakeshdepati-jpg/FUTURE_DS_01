@@ -35,11 +35,8 @@ This project focuses on analyzing business sales data and creating an interactiv
 This dashboard helps in understanding:
 
 - Sales performance trends
-- 
 - Best-selling products
-- 
 - Country-wise sales analysis
-- 
 - Business growth insights
 
 🎯 Learning Experience
