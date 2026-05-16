@@ -7,10 +7,15 @@ This project focuses on analyzing business sales data and creating an interactiv
 📌 Dashboard Highlights
 
 ✅ Total Revenue: 9.73M
+
 ✅ Total Quantity Sold: 5.16M
+
 ✅ Top 10 Selling Products Analysis
+
 ✅ Sales Performance by Country
+
 ✅ Monthly Sales Trends
+
 ✅ Interactive Filters & Visualizations
 
 🛠️ Tools & Technologies Used
